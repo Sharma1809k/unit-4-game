@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box
+}
+body{
+    margin-left: 30px;
+}
+h1 {
+    color: #fff;
+    text-align: center;
+    width: 280px;
+    background: rgb(187, 101, 3);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.instructions {
+    background: rgb(247, 236, 206);
+    width: 500px;
+}
+
+p {
+    color: rgb(5, 141, 46);
+    padding: 10px;
+    font-weight: bold
+}
+
+#computerChoice {
+    margin-top: 20px;
+background: rgb(104, 201, 141);
+width:150px;
+padding: 30px;
+text-align: center;
+font-size: 30px;
+float: left;
+}
+
+.scoreBoard {
+    background: rgb(123, 233, 224);
+    width: 80px;
+    text-align: center;
+    margin-top: 20px;
+    float: left; 
+    margin-left: 20px;
+}
+
+#wins {
+   padding-top: 15px;
+ 
+}
+#losses {
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+#text {
+    font-weight: bold;
+    text-align: center;
+}
+.images {
+    clear: both;
+}
+
+img {
+    margin-top: 20px;
+}
+
+.scoreText {
+background: rgb(54, 104, 77);
+color: #fff;
+width: 200px;
+margin-top: 10px;
+padding: 5px;
+}
+
+.score {
+    margin-top: 10px;
+    background: rgb(54, 104, 77);
+    color: #fff;
+    width:200px;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+}
